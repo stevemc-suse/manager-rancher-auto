@@ -2,8 +2,8 @@
 
 <image schemaversion="6.1" name="sle15-sp2">
     <description type="system">
-        <author>Cameron Seader</author>
-        <contact>cseader@suse.com</contact>
+        <author>Steve McBride</author>
+        <contact>steve.mcbride@suse.com</contact>
         <specification>SUSE Linux Enterprise 15 SP2 JeOS</specification>
     </description>
     <preferences>
